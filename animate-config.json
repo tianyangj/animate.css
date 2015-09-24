@@ -1,7 +1,7 @@
 {
 
   "attention_seekers": {
-    "bounce": false,
+    "bounce": true,
     "flash": false,
     "pulse": false,
     "rubberBand": false,
